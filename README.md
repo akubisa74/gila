@@ -2,7 +2,7 @@
 -
 ##⚠⚠⚠CAUTION⚠⚠⚠
 -
-##⚠⚠ONLY FOR EDUCATIONAL purposes⚠⚠
+##⚠⚠ONLY FOR EDUCATIONAL PURPOSES⚠⚠
 -
 ##⚠⚠DON'T USE FOR CRYPTO MINIG⚠⚠
  Mining == Ban
