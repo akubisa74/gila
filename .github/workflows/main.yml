@@ -1,4 +1,4 @@
-name: NetSlutter
+name: run
 
 on: workflow_dispatch
 
